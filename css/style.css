@@ -357,8 +357,7 @@ h1 {
 
 .hebergements .card-title {
     font-size: 16px;
-    margin: 0px 0px 8px 0px
-    
+    margin: 0px 0px 8px 0px  
 }
 
 .hebergements .card-subtitle {
@@ -523,7 +522,6 @@ h1 {
     font-weight: 400;
     line-height: 18.78px;
 }
-
 
 /* Le code ci-dessous correspond à la version responsive uniquement */
 
